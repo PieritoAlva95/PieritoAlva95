@@ -21,4 +21,12 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pieritoalva95&&show_icons=true&title_color=ffffff&icon_color=e53935&text_color=ffffff&bg_color=151515" />
+<h2 align="center">Github stats <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" height="30" width="30"></h2>
+
+<h4 align="center">Top langs <img src="https://media.giphy.com/media/l2Sq2zPVz6FLD6Z5S/giphy.gif" height="30" width="30"></h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieritoAlva95&langs_count=10&theme=tokyonight&layout=compact" alt="PieritoAlva95 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" height="30" width="30"></h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pieritoalva95&&show_icons=true&title_color=ffffff&icon_color=e53935&text_color=ffffff&bg_color=151515" /></p>
