@@ -1,8 +1,4 @@
 # Hi, My name is Jean Pierre Alvarado, but I prefer to be called Pierito <img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" height="30" width="30">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif"/>
-</p>
   
 <h2 align="center">A little more about me... <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" height="30"/></h2>
 
