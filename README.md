@@ -10,8 +10,14 @@
 <h2 align="center">You can reach me at 💻</h2>
 
 <p align="center">
+  <a href="jean.alvarado795@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Jean Alvarado's Gmail" height="30" width="30">
+  </a>
   <a href="https://twitter.com/DarkPiero1995">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Jean Alrados's Twitter" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Jean Alvarado's Twitter" height="30" width="30">
+  </a>
+  <a href="https://www.instagram.com/pierito95/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Jean Alvarado's Instagram" height="30" width="30">
   </a>
 </p>
 
