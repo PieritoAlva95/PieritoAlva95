@@ -1,6 +1,6 @@
 ### Hi, My name is Jean Pierre Alvarado, but I prefer to be called Pierito <img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" height="30" width="30">
   
-<h2 align="center">A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30" width="30"></h2>
+<h2 align="center">A little more about me... <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" height="30"/></h2>
 
 - 🔭 I’m currently working on a Platform for hiring people 
 - 🌱 I’m currently learning Angular, GraphQL, Tailwindcss
