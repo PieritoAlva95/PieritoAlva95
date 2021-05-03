@@ -8,8 +8,45 @@
 
 - 🔭 I’m currently working on a Platform for hiring people 
 - 🌱 I’m currently learning Angular, GraphQL, Tailwindcss
-- 💬 Ask me about Flutter, NodeJS, Angular, TypeScript.
+- 💬 Ask me about Flutter, NodeJS, React, TypeScript.
 - 😄 Pronouns: He/His
+
+<h2 align="center">My stack :man_technologist:</h2>
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="40" width="40">
+  <img src="https://img.stackshare.io/service/1209/javascript.jpeg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" height="40" width="40">
+  <img src="https://img.stackshare.io/service/6727/css.png" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40">
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" height="40" width="40">
+  <img src="https://img.stackshare.io/service/5989/teams.png" height="40" width="40">
+</p>
+
 
 <h2 align="center">You can reach me at <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" height="30" width="30"></h2>
 
