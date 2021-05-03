@@ -7,7 +7,7 @@
 - 💬 Ask me about Flutter, NodeJS, Angular, TypeScript.
 - 😄 Pronouns: He/His
 
-<h2 align="center">You can reach me at 💻</h2>
+<h2 align="center">You can reach me at <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width="50"></h2>
 
 <p align="center">
   <a href="https://twitter.com/DarkPiero1995">
