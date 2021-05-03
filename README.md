@@ -11,7 +11,7 @@
 - 💬 Ask me about Flutter, NodeJS, React, TypeScript.
 - 😄 Pronouns: He/His
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">My stack <img src="https://media.giphy.com/media/LT6asZV8NvAqoXfeSx/giphy.gif" height="30"/></h2>
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 
 <p align="center">
